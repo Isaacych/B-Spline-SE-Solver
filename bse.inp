@@ -1,0 +1,14 @@
+*****************Input file for the 1D B-spline Schroedinger Equation Solver*****************
+**Order of B-spline
+9
+**Grid for R
+type of grid	Rmin	Rmax	Rsteps
+'const'		1.d0	8.d0	160
+**Mass of system (in amu)
+**16O	16O	Potential index
+15.999	15.999	3
+**Type of Calculation, **method
+'bound'	'band'
+**total number of Wave function to be plotted (total num, array)
+5
+10 20 30 40 50
